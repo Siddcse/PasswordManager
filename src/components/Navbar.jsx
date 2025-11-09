@@ -20,7 +20,7 @@ const Navbar = () => {
                     </li>
                 </ul>
                 <a
-                    href="https://github.com/Siddcse"
+                    href="https://github.com/Siddcse/PasswordManager"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
