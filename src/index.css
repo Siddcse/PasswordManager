@@ -6,6 +6,7 @@
 
 @layer components {
   .mycontainer {
-    @apply container px-40 py-16 mx-auto ;
+    /* Responsive container: small devices use small padding, larger screens use wider padding */
+    @apply container px-4 md:px-40 py-8 md:py-16 mx-auto ;
   }
 }
